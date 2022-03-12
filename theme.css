@@ -1,0 +1,29 @@
+h1{
+	color: blue;
+}
+table {
+	width:100%;
+	border: 3px solid;
+	margin-bottom: 30px;
+}
+td{
+	border: 2px solid;
+	text-align: center;
+}
+.submit-form{
+	background-color: blueviolet;
+	padding: 8px 20px 8px 20px;
+}
+.nav-item{
+	float: right;
+	margin-right: 6px;
+	display: inline-block;
+}
+.nav-item-home{
+	margin-right: 6px;
+	display: inline-block;
+}
+.nav-div{
+	padding: 7px 0;
+	background-color: aqua;
+}
